@@ -1,0 +1,19 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
+futures==3.0.5
+humanize==4.11.0
+idna==3.10
+lit==18.1.8
+markdown-it-py==3.0.0
+mdurl==0.1.2
+numpy==2.1.2
+packaging==24.2
+pipdeptree==2.24.0
+Pygments==2.19.1
+requests==2.32.3
+rich==13.9.4
+tk==0.1.0
+tqdm==4.67.1
+urllib3==2.2.3
+wheel @ file:///usr/local/Cellar/python%403.13/3.13.1/libexec/wheel-0.45.1-py3-none-any.whl#sha256=da46333d5dcbde6e20cf7e2f8fff9e9ce76e8c94dc4afd6fb95fc4bc2745fb5e
+yt-dlp==2025.1.12
